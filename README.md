@@ -56,4 +56,4 @@ A rest api using Spring Boot that enables users to search and book appointments 
 ## API Root and Endpoint
 
 ```
-https://localhost:8888/
+https://localhost:8083/
