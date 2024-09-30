@@ -57,3 +57,4 @@ A rest api using Spring Boot that enables users to search and book appointments 
 
 ```
 https://localhost:8083/
+http://localhost:8083/swagger-ui/index.html#/
